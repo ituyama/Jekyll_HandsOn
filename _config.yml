@@ -1,0 +1,15 @@
+
+title: YamanoItsuki
+email: ituyama01@outlook.jp
+
+
+url: "https://ituyama.com/Jekyll-HandsOn" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl : /
+# Build settings
+layout: default
+plugins:
+  - jekyll-feed
+
+permalink: /:month/:day/:minute
+gist:
+  noscript: false
